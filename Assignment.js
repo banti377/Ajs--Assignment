@@ -1,3 +1,5 @@
+// tests/
+
 // Ans : 1
 // Create an empty object user.
 // let user = {};
